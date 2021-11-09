@@ -1,9 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+// import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+// import '../node_modules/react-image-gallery/styles/scss/image-gallery.scss'
+// import '../node_modules/react-image-gallery/styles/css/image-gallery.css'
+// import "../node_modules/slick-carousel/slick/slick.css";
+// import "../node_modules/slick-carousel/slick/slick-theme.css";
 ReactDOM.render(
   <React.StrictMode>
     <App />
