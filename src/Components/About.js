@@ -28,11 +28,13 @@ function About() {
                     <span className="animated-item">Full Stack Developer</span>
                   </div>
                 </h1>
-                <p>
-                  Building a successful product is a challenge. I am highly
-                  energetic in user experience design, interfaces and web
-                  development.
-                </p>
+                <motion.p
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1}}
+                transition={{delay :2, duration:1}} 
+                >
+                  I am an Automation and Robotics Engineer who is passionate in building Websites and Web Applications.
+                </motion.p>
 
                 <div className="custom-btn-group mt-4">
                   <Button href="https://drive.google.com/uc?export=download&id=1593uUenwL67nf-r5-GZW5wM26XL6wjIx" className=" mr-lg-2 custom-btn">
