@@ -19,46 +19,46 @@ function Projects() {
       hosted_link: "https://blogging-b251-wd.netlify.app/",
       project_Name: "Blogging Application",
     },
-    {
-      id: 2,
-      image:
-        "https://res.cloudinary.com/amrutesh/image/upload/v1636378240/PortFolio%20Images/Weather-App_wsk8bq.png",
-      github_repo: "https://github.com/amruteshdevadas/weather",
-      hosted_link: "https://waether-amrutesh-b251wd-api.netlify.app",
-      project_Name: "Weather App",
-    },
-    {
-      id: 3,
-      image:
-        "https://res.cloudinary.com/amrutesh/image/upload/v1636378251/PortFolio%20Images/Anime_Api_oxql9o.png",
-      github_repo: "https://github.com/amruteshdevadas/AnimeAPI",
-      hosted_link: "https://amrutesh-hackathon-b251wd.netlify.app/",
-      project_Name: "Anime API",
-    },
-    {
-      id: 4,
-      image:
-        "https://res.cloudinary.com/amrutesh/image/upload/v1636378243/PortFolio%20Images/Laud_Page_nji1xp.png",
-      github_repo: "https://github.com/amruteshdevadas/laud-page",
-      hosted_link: "https://laud-page-task-amrutesh-b251wd.netlify.app/",
-      project_Name: "Laud Page",
-    },
-    {
-      id: 5,
-      image:
-        "https://res.cloudinary.com/amrutesh/image/upload/v1636378237/PortFolio%20Images/ChuckNorris_jzq4v5.png",
-      github_repo: "https://github.com/amruteshdevadas/chucknorris",
-      hosted_link: "https://amrutesh-task-b251-wd-chuck-norris.netlify.app",
-      project_Name: "Chuck Norris",
-    },
-    {
-      id: 6,
-      image:
-        "https://res.cloudinary.com/amrutesh/image/upload/v1636378238/PortFolio%20Images/Cards_xb4ibl.png",
-      github_repo: "https://github.com/amruteshdevadas/Pricing-Table",
-      hosted_link: "https://pricing-table-task-amrutesh-b25g-wd.netlify.app",
-      project_Name: "Cards",
-    },
+    // {
+    //   id: 2,
+    //   image:
+    //     "https://res.cloudinary.com/amrutesh/image/upload/v1636378240/PortFolio%20Images/Weather-App_wsk8bq.png",
+    //   github_repo: "https://github.com/amruteshdevadas/weather",
+    //   hosted_link: "https://waether-amrutesh-b251wd-api.netlify.app",
+    //   project_Name: "Weather App",
+    // },
+    // {
+    //   id: 3,
+    //   image:
+    //     "https://res.cloudinary.com/amrutesh/image/upload/v1636378251/PortFolio%20Images/Anime_Api_oxql9o.png",
+    //   github_repo: "https://github.com/amruteshdevadas/AnimeAPI",
+    //   hosted_link: "https://amrutesh-hackathon-b251wd.netlify.app/",
+    //   project_Name: "Anime API",
+    // },
+    // {
+    //   id: 4,
+    //   image:
+    //     "https://res.cloudinary.com/amrutesh/image/upload/v1636378243/PortFolio%20Images/Laud_Page_nji1xp.png",
+    //   github_repo: "https://github.com/amruteshdevadas/laud-page",
+    //   hosted_link: "https://laud-page-task-amrutesh-b251wd.netlify.app/",
+    //   project_Name: "Laud Page",
+    // },
+    // {
+    //   id: 5,
+    //   image:
+    //     "https://res.cloudinary.com/amrutesh/image/upload/v1636378237/PortFolio%20Images/ChuckNorris_jzq4v5.png",
+    //   github_repo: "https://github.com/amruteshdevadas/chucknorris",
+    //   hosted_link: "https://amrutesh-task-b251-wd-chuck-norris.netlify.app",
+    //   project_Name: "Chuck Norris",
+    // },
+    // {
+    //   id: 6,
+    //   image:
+    //     "https://res.cloudinary.com/amrutesh/image/upload/v1636378238/PortFolio%20Images/Cards_xb4ibl.png",
+    //   github_repo: "https://github.com/amruteshdevadas/Pricing-Table",
+    //   hosted_link: "https://pricing-table-task-amrutesh-b25g-wd.netlify.app",
+    //   project_Name: "Cards",
+    // },
     {
       id: 7,
       image:
