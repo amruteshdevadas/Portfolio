@@ -31,7 +31,7 @@ function Contact() {
       animation.start({
         x: "100vw",
         transition: {
-          duration: 0.5,
+          duration: 1,
           type: "spring",
           stiffness: 120,
           damping: 20,
